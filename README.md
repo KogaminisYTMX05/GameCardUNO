@@ -19,7 +19,7 @@ Los jugadores obtienen 7 cartas en su mesa, aparecerá una carta random en el ma
 - Se implementó las cartas especiales (ROBA 2, ROBA 4, SALTO, REVERSA, COMODIN (cambio de color)).
 
 ## Diagrama UML (Versión 2):
-![image alt]()
+![image alt](https://github.com/KogaminisYTMX05/GameCardUNO/blob/1c060ae7557c2af41bfa679aea7167d1694b985c/assets/uml_complete_v2.0.png)
 
 ## Mejoras en la actualización 1.1 (09/03/2026)
 * Implementación de comandos con restricción:
@@ -36,7 +36,7 @@ Los jugadores obtienen 7 cartas en su mesa, aparecerá una carta random en el ma
 ## ¿Como puedo jugar con esa versión de código?
 Sigue estos pasos:
 
-1. Descarga el archivo .zip y descomprimelo.
+1. Descarga el archivo .zip y descomprimelo: https://github.com/user-attachments/files/26837912/GameCardUNO_v2.0.zip
 2. Obten a la mano un programa ejecutable con lenguaje de código java a tu comodidad (Microsoft VS Code, Apache NetBeans, etc.. "También debes contar con el Java JDK reciente instalado en tu PC.
 3. Crea un proyecto nuevo y ve a la carpeta descomprimida.
 4. Copia todos los archivos a la carpeta de proyectos de origen de tu programa ejecutable.
