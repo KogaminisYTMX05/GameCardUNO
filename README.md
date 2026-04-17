@@ -16,12 +16,12 @@ Los jugadores obtienen 7 cartas en su mesa, aparecerá una carta random en el ma
 * También el comando do/while ha sido eliminado para evitar saturaciones en el proceso.
 
 ## Diagrama UML (Versión 1.1):
-![image alt]()
+![image alt](https://github.com/KogaminisYTMX05/GameCardUNO/blob/6306ba8d6e1566fb5487af1e19ec5dd491091bdb/assets/uml_complete_v1.1.png)
 
 ## ¿Como puedo jugar con esa versión de código?
 Sigue estos pasos:
 
-1. Descarga el archivo .zip y descomprimelo.
+1. Descarga el archivo .zip y descomprimelo: https://github.com/user-attachments/files/26836576/GameCardUNO_v1.1.zip.
 2. Obten a la mano un programa ejecutable con lenguaje de código java a tu comodidad (Microsoft VS Code, Apache NetBeans, etc.. "También debes contar con el Java JDK reciente instalado en tu PC.
 3. Crea un proyecto nuevo y ve a la carpeta descomprimida.
 4. Copia todos los archivos a la carpeta de proyectos de origen de tu programa ejecutable.
