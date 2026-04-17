@@ -7,7 +7,7 @@ Este juego consiste en un enfrentamiento entre 1 CPU y 1 jugador, de donde se ti
 Los jugadores obtienen 7 cartas en su mesa, aparecerá una carta random en el mazo y los jugadores escogeran sus cartas por el color/número adecuado, en cada turno los jugadores tendrán que elegir sus cartas correctamente hasta vaciar sus cartas por completo.
 
 ## Versión base del proyecto 1.0 (03/02/2026)
-- Al NO tener cartas jugables el usuario P1 puede robar cartas al poner "-1", si hay cartas jugables, no es válido y no pierde turno.
+- Al NO tener cartas jugables el usuario P1 puede robar cartas al poner -1.
 
 * Esta versión NO cuenta con cartas especiales.
 * Cuenta con un efecto especial de mostrar color en las letras de cartas.
