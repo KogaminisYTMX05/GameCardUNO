@@ -46,7 +46,7 @@ Los jugadores obtienen 7 cartas en su mesa, aparecerá una carta random en el ma
 ## ¿Como puedo jugar con esa versión de código?
 Sigue estos pasos:
 
-1. Descarga el archivo .zip y descomprimelo: 
+1. Descarga el archivo .zip y descomprimelo: https://github.com/user-attachments/files/27167583/GameCardUNO_v3.0.zip
 2. Obten a la mano un programa ejecutable con lenguaje de código java a tu comodidad (Microsoft VS Code, Apache NetBeans, etc.. "También debes contar con el Java JDK reciente instalado en tu PC.
 3. Crea un proyecto nuevo y ve a la carpeta descomprimida.
 4. Copia todos los archivos a la carpeta de proyectos de origen de tu programa ejecutable.
