@@ -63,7 +63,7 @@ El diagrama UML es la misma de la versión pasada.
 ## ¿Como puedo jugar con esa versión de código?
 Sigue estos pasos:
 
-1. Descarga el archivo .zip dando click en el release v4.1 y descomprimelo.
+1. Descarga el archivo .zip y descomprimelo: https://github.com/user-attachments/files/27268721/GameCardUNO_v4.1.zip
 2. Obten a la mano un programa ejecutable con lenguaje de código java a tu comodidad "Microsoft VS Code, Apache NetBeans, etc.." (carpeta src/netbeans) También debes contar con el Java JDK reciente instalado en tu PC y obten Eclipse IDE (recomendado) para pruebas en JUnit (carpetas src_&_test/eclipse).
 3. Crea un proyecto nuevo tipo Java Application for Ant, ve a la carpeta descomprimida, mueve los archivos de la carpeta "src/netbeans" en la carpeta generada de origen "src".
 4. Tanto Eclipse IDE como Apache Netbeans son compatibles para proyectos nuevos como Java Application for Maven, repite el proceso 3 pero de tipo Java Application for Maven, ve a la carpeta descomprimida, mueve los archivos de las carpetas "src/eclipse" y "test/eclipse" en las carpetas generadas de origen (src_&_test).
