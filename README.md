@@ -81,7 +81,7 @@ El diagrama UML es la misma de la versión pasada.
 ## ¿Como puedo jugar con esa versión de código?
 Sigue estos pasos:
 
-1. Descarga el archivo .zip (dando click en el release v5.0) y descomprimelo.
+1. Descarga el archivo .zip y descomprimelo: https://github.com/user-attachments/files/28036362/GameCardUNO_v5.0.zip
 2. Obten a la mano un programa ejecutable con lenguaje de código java a tu comodidad (Microsoft VS Code, Apache NetBeans, etc.. "También debes contar con el JDK reciente instalado en tu PC.
 3. Crea un proyecto nuevo y ve a la carpeta descomprimida.
 4. Copia todos los archivos a la carpeta de proyectos de origen de tu programa ejecutable.
